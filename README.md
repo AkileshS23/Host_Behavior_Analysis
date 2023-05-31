@@ -25,7 +25,7 @@ Specific Objectives include:
 
 ***
 
-![OIP](https://github.com/AkileshS23/Host_Behavior_Analysis/assets/135036085/0b3f5a60-7fa3-489c-acba-f86ce83aaa9d)
+![OIP](https://github.com/AkileshS23/Host_Behavior_Analysis/assets/135036085/0b3f5a60-7fa3-489c-acba-f86ce83aaa9d/100/100)
 
 * Master the Art of becoming Super Host- The analysis states how a host can get upgraded to a super host if certain parameters are followed while taking booking orders and maintaining an authentic profile. 
 *  Building Trust & Transparency- Clearly, the customers/guests who book the property online need to build a sense of trust and achieve a clear picture of what they are opting for.
