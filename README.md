@@ -3,10 +3,10 @@
 
 # 
 <h1 align="center">Host_Behavior_Analysis</h1>
-**The objective of the project is to analyze the Host Behavior patterns in Property Rental Companies.**
+The objective of the project is to analyze the Host Behavior patterns in Property Rental Companies.
 <br>
 <br>
-**Specific Objectives include:**
+Specific Objectives include:
 
 * Identifying the difference between Super Host and Other Host and determining the factors involved in differentiating them <br>
 * Analyzing the impact of different metrics on Host performance & Customer satisfaction <br>
